@@ -8,3 +8,11 @@ Este repositorio contiene los **Procedimientos Operativos Estándar (SOPs)** del
 - **`formatos/`** → Plantillas y formatos útiles.
 
 📌 **Para sugerencias o mejoras, por favor abre un Issue en GitHub.**
+
+---- 
+### 🎯 Beneficios de esta Gestión Documental
+
+✅ Centralización de documentos: Todos los SOPs estarán organizados en un solo lugar.
+✅ Fácil acceso: La administración, propietarios y operativos pueden consultar procedimientos en línea.
+✅ Estandarización: Cada SOP sigue un mismo formato, evitando confusión.
+✅ Versionado y actualizaciones: Puedes rastrear cambios y mejorar procesos con el tiempo.
