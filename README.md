@@ -36,6 +36,28 @@ Este repositorio contiene los **Procedimientos Operativos Estándar (SOPs)** del
 
 ---
 
+### 📢 Reporte de Incidentes
+
+Para mejorar la seguridad y el bienestar de todos los residentes del **Edificio Porvenir 45**, hemos habilitado un formulario en línea para reportar incidentes de manera rápida y efectiva.
+
+📌 **¿Cuándo reportar un incidente?**  
+Si has presenciado o sido afectado por alguna de las siguientes situaciones:  
+✅ **Fallas en servicios** (agua, luz, ascensores, etc.).  
+✅ **Problemas de seguridad** (robos, vandalismo, accesos no autorizados).  
+✅ **Ruido excesivo o molestias** en horarios de descanso.  
+✅ **Daños en infraestructura** (paredes, puertas, iluminación, etc.).  
+✅ **Conflictos entre residentes** o violaciones a las normas de convivencia.  
+
+⚠ **Para emergencias inmediatas, comunícate directamente con la portería o administración.**  
+
+📝 **Para realizar un reporte, completa el siguiente formulario:**  
+
+![QR Reporte de Incidentes](./assets/qr-incidents-porvenir45.png)  
+
+📢 **Tu reporte es clave para mantener un edificio seguro y en armonía. ¡Gracias por tu colaboración!**  
+
+---
+
 📌 **Para sugerencias o mejoras, por favor abre un [Issue](https://github.com/tuusuario/edificio-porvenir45-sops/issues).**
 
 ---
