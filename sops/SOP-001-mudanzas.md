@@ -1,7 +1,3 @@
-Aquí tienes el primer **Proceso Operativo Estándar (SOP)** para la **gestión de mudanzas** en el **Edificio Porvenir 45**. Este documento servirá como referencia para futuras normativas y procesos, asegurando claridad y eficiencia en la administración.  
-
----
-
 # **PROCESO OPERATIVO ESTÁNDAR (SOP) - GESTIÓN DE MUDANZAS**  
 📌 **Código**: SOP-001  
 📌 **Versión**: 1.0  
