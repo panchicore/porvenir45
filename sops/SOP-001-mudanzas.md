@@ -1,4 +1,5 @@
-# **PROCESO OPERATIVO ESTÁNDAR (SOP) - GESTIÓN DE MUDANZAS**  
+### **📘 SOP-001 - Gestión de mudanzas**  
+
 📌 **Código**: SOP-001  
 📌 **Versión**: 1.0  
 📌 **Fecha de emisión**: 6 de febrero de 2025  
