@@ -5,6 +5,6 @@ Este repositorio contiene los **Procedimientos Operativos Estándar (SOPs)** del
 ## 📂 Estructura del repositorio
 - **`sops/`** → Contiene los procedimientos documentados.
 - **`docs/`** → Información general y normativas del edificio.
-- **`assets/`** → Recursos gráficos, plantillas y formatos útiles.
+- **`formatos/`** → Plantillas y formatos útiles.
 
 📌 **Para sugerencias o mejoras, por favor abre un Issue en GitHub.**
