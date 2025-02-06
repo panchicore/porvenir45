@@ -30,6 +30,12 @@ Este repositorio contiene los **Procedimientos Operativos Estándar (SOPs)** del
 
 ---
 
+### 📂 🌐 **Espacio Virtual para Gestión de Archivos**
+📌 **Google Drive (Acceso Restringido a Personal Autorizado)**  
+🔗 **[Acceder al Repositorio de Archivos](https://drive.google.com/drive/folders/1oBmfMgf-7GfwiBHxz8_Fd0PS-xbZfVB8?usp=drive_link)**  
+
+---
+
 📌 **Para sugerencias o mejoras, por favor abre un [Issue](https://github.com/tuusuario/edificio-porvenir45-sops/issues).**
 
 ---
